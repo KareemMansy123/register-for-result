@@ -1,0 +1,3 @@
+include ':register-for-result-lib'
+include ':app'
+rootProject.name = "register-for-result"
