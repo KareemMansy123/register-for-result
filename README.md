@@ -13,7 +13,7 @@ so you can use this library to (get data from another activity , camira , mic , 
  ```
  ```
  dependencies {
-	        implementation 'com.github.KareemMansy123:TestLog:1.0.1'
+	        implementation 'com.github.KareemMansy123:register-for-result:Tag'
 	}
   ```
   ## Usage Kotlin
