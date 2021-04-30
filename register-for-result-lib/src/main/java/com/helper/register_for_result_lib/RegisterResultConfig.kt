@@ -10,7 +10,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.fragment.app.FragmentManager
 
-internal class RegisterResultConfig : Fragment() {
+open class RegisterResultConfig : Fragment() {
   private lateinit var callback: (ActivityResult) -> Unit
 
   private lateinit var requestPermissionLauncher: ActivityResultLauncher<Intent>
